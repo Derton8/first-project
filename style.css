@@ -1,0 +1,32 @@
+.test-title {
+  display: block;
+  margin: auto;
+  font-size: 14px;
+}
+
+
+.no-margin-right {
+  margin-right: 0;
+}
+
+.menu {
+  display: flex;
+  margin: auto;
+  width: 50%;
+  min-width: 800px;
+  background-color: rgb(32, 32, 32);
+  height: 10%;
+  padding: 1% 12% 1%;
+  font-size: 0;
+  bottom: 0;
+  align-items: center;
+}
+
+.music-button {
+  margin: 0 0 0 0px;
+  display: inline-flex;
+  height: 60px;
+  width: 120px;
+  font-size: 0;
+  margin-right: 20%;
+}
